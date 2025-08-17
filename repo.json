@@ -1,1 +1,13 @@
+{
+  "name": "Hianime Extension Repo",
+  "extensions": [
+    {
+      "name": "futalab.com",
+      "pkg": "eu.kanade.tachiyomi.extension.en.futalab.com",
+      "lang": "en",
+      "version": "1.0.0",
+      "apk": "https://Inosuke441.github.io/hianime-repo/futalab"
+    }
+  ]
+}
 
