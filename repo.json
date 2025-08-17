@@ -1,13 +1,19 @@
 {
-  "name": "FutaLab Extension Repo",
+  "name": "Futalab Extensions",
+  "url": "https://Inosuke441.github.io/futalab-repo/repo.json",
   "extensions": [
     {
-      "name": "futalab.com",
-      "pkg": "eu.kanade.tachiyomi.extension.en.futalab.com",
+      "name": "Futalab.com",
+      "pkgName": "eu.kanade.tachiyomi.animeextension.en.futalab",
+      "className": "eu.kanade.tachiyomi.animeextension.en.futalab.Futalab",
+      "apkName": "futalab-release.apk",
+      "versionCode": 1,
+      "versionName": "1.0",
       "lang": "en",
-      "version": "1.0.0",
-      "apk": "https://Inosuke441.github.io/futalab-repo/futalab.apk"
+      "nsfw": false,
+      "apkUrl": "https://Inosuke441.github.io/futalab-repo/futalab-release.apk"
     }
   ]
 }
+
 
